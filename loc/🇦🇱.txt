@@ -1,0 +1,6 @@
+#profile-title: base64:am5qYWwgc3Vi
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+
+vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#jnjal%3A%3A%F0%9F%87%A6%F0%9F%87%B1
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#jnjal%3A%3A%F0%9F%87%A6%F0%9F%87%B1

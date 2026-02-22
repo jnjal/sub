@@ -1,9 +1,0 @@
-#profile-title: base64:am5qYWwgc3Vi
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42933#jnjal%3A%3A%F0%9F%87%B0%F0%9F%87%BC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42936#jnjal%3A%3A%F0%9F%87%B0%F0%9F%87%BC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42934#jnjal%3A%3A%F0%9F%87%B0%F0%9F%87%BC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42935#jnjal%3A%3A%F0%9F%87%B0%F0%9F%87%BC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM0ODRlZGNmMWJlNDNj@163.171.181.49:48852#jnjal%3A%3A%F0%9F%87%B0%F0%9F%87%BC
