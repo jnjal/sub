@@ -1,5 +1,0 @@
-#profile-title: base64:am5qYWwgc3Vi
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-
-vless://36316bec-8976-4b1f-8042-b87db88faa25@84.23.52.70:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#jnjal%3A%3A%F0%9F%87%AD%F0%9F%87%BA

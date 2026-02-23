@@ -3,3 +3,4 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOTRmMGI2OTE2ZjY3YmRj@38.54.14.156:11201#jnjal%3A%3A%F0%9F%87%BB%F0%9F%87%B3
+vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=none&type=ws&path=%2F&security=none#jnjal%3A%3A%F0%9F%87%BB%F0%9F%87%B3
