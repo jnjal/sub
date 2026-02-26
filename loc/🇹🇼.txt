@@ -3,5 +3,3 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.107.101:990#jnjal%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.209:3462?allowInsecure=0&sni=45.32.28.232#jnjal%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@59.125.131.164:3462?security=tls&sni=45.32.28.232#jnjal%3A%3A%F0%9F%87%B9%F0%9F%87%BC
