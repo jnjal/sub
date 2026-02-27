@@ -1,6 +1,0 @@
-#profile-title: base64:am5qYWwgc3Vi
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-
-vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=&encryption=none&headerType=none&type=tcp#jnjal%3A%3A%F0%9F%87%AE%F0%9F%87%B7
-vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=&encryption=none&headerType=&type=tcp#jnjal%3A%3A%F0%9F%87%AE%F0%9F%87%B7
