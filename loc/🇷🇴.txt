@@ -1,6 +1,0 @@
-#profile-title: base64:am5qYWwgc3Vi
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#jnjal%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#jnjal%3A%3A%F0%9F%87%B7%F0%9F%87%B4
