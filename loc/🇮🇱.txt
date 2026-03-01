@@ -2,5 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 
-vless://ec5796b3-678b-4b11-9c1d-a53171dfd897@195.20.17.182:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.python.org&fp=chrome&security=reality&pbk=2HWC3TKZmYDORsrGqTTOITNFBp6ANhwgERK6lPcVbic&sid=ecd1c97d#jnjal%3A%3A%F0%9F%87%AE%F0%9F%87%B1
 vless://c0d4ebce-a832-4fe6-94b3-de3ba1203de0@77.91.74.84:44148?security=reality&encryption=none&pbk=03p9kJxTSoiEEQXtQPtCfPijrPFjRH2pMaMLQbrusiI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=fb1e6bf864b50297#jnjal%3A%3A%F0%9F%87%AE%F0%9F%87%B1
+vless://ec5796b3-678b-4b11-9c1d-a53171dfd897@195.20.17.182:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.python.org&fp=chrome&security=reality&pbk=2HWC3TKZmYDORsrGqTTOITNFBp6ANhwgERK6lPcVbic&sid=ecd1c97d#jnjal%3A%3A%F0%9F%87%AE%F0%9F%87%B1
