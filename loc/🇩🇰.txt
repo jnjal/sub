@@ -2,4 +2,4 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#jnjal%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&security=none&encryption=none&type=ws#jnjal%3A%3A%F0%9F%87%A9%F0%9F%87%B0
